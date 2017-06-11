@@ -1,0 +1,8 @@
+c:\users\armen\documents\visual studio 2015\Projects\UNI\UniversityFinalProject\UniversityServerSide\UniversityServerSide\bin\Debug\UniversityServerSide.exe.config
+c:\users\armen\documents\visual studio 2015\Projects\UNI\UniversityFinalProject\UniversityServerSide\UniversityServerSide\bin\Debug\UniversityServerSide.exe
+c:\users\armen\documents\visual studio 2015\Projects\UNI\UniversityFinalProject\UniversityServerSide\UniversityServerSide\bin\Debug\UniversityServerSide.pdb
+c:\users\armen\documents\visual studio 2015\Projects\UNI\UniversityFinalProject\UniversityServerSide\UniversityServerSide\obj\Debug\UniversityServerSide.csprojResolveAssemblyReference.cache
+c:\users\armen\documents\visual studio 2015\Projects\UNI\UniversityFinalProject\UniversityServerSide\UniversityServerSide\obj\Debug\UniversityServerSide.exe
+c:\users\armen\documents\visual studio 2015\Projects\UNI\UniversityFinalProject\UniversityServerSide\UniversityServerSide\obj\Debug\UniversityServerSide.pdb
+C:\Users\armen\documents\visual studio 2015\Projects\UNI\UniversityFinalProject\UniversityServerSide\UniversityServerSide\bin\Debug\MySql.Data.dll
+C:\Users\armen\documents\visual studio 2015\Projects\UNI\UniversityFinalProject\UniversityServerSide\UniversityServerSide\bin\Debug\MySql.Data.xml
