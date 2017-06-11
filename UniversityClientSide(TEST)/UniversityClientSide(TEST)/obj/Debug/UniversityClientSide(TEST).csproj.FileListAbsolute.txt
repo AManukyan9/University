@@ -1,0 +1,5 @@
+c:\users\armen\documents\visual studio 2015\Projects\UNI\UniversityFinalProject\UniversityClientSide(TEST)\UniversityClientSide(TEST)\bin\Debug\UniversityClientSide(TEST).exe.config
+c:\users\armen\documents\visual studio 2015\Projects\UNI\UniversityFinalProject\UniversityClientSide(TEST)\UniversityClientSide(TEST)\bin\Debug\UniversityClientSide(TEST).exe
+c:\users\armen\documents\visual studio 2015\Projects\UNI\UniversityFinalProject\UniversityClientSide(TEST)\UniversityClientSide(TEST)\bin\Debug\UniversityClientSide(TEST).pdb
+c:\users\armen\documents\visual studio 2015\Projects\UNI\UniversityFinalProject\UniversityClientSide(TEST)\UniversityClientSide(TEST)\obj\Debug\UniversityClientSide(TEST).exe
+c:\users\armen\documents\visual studio 2015\Projects\UNI\UniversityFinalProject\UniversityClientSide(TEST)\UniversityClientSide(TEST)\obj\Debug\UniversityClientSide(TEST).pdb

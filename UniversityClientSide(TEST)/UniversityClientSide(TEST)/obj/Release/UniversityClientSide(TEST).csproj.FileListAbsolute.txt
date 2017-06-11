@@ -1,0 +1,6 @@
+c:\users\armen\documents\visual studio 2015\Projects\UNI\UniversityFinalProject\UniversityClientSide(TEST)\UniversityClientSide(TEST)\bin\Release\UniversityClientSide(TEST).exe.config
+c:\users\armen\documents\visual studio 2015\Projects\UNI\UniversityFinalProject\UniversityClientSide(TEST)\UniversityClientSide(TEST)\bin\Release\UniversityClientSide(TEST).exe
+c:\users\armen\documents\visual studio 2015\Projects\UNI\UniversityFinalProject\UniversityClientSide(TEST)\UniversityClientSide(TEST)\bin\Release\UniversityClientSide(TEST).pdb
+c:\users\armen\documents\visual studio 2015\Projects\UNI\UniversityFinalProject\UniversityClientSide(TEST)\UniversityClientSide(TEST)\obj\Release\UniversityClientSide(TEST).exe
+c:\users\armen\documents\visual studio 2015\Projects\UNI\UniversityFinalProject\UniversityClientSide(TEST)\UniversityClientSide(TEST)\obj\Release\UniversityClientSide(TEST).pdb
+c:\users\armen\documents\visual studio 2015\Projects\UNI\UniversityFinalProject\UniversityClientSide(TEST)\UniversityClientSide(TEST)\obj\Release\UniversityClientSide(TEST).csprojResolveAssemblyReference.cache
